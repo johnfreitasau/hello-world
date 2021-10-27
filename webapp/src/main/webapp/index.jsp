@@ -1,2 +1,2 @@
-<h1> Jenkins CICD pipeline using maven and ansible - 6 </h1>
+<h1> Jenkins CICD pipeline using maven and ansible - 7 </h1>
 
